@@ -1,0 +1,1 @@
+export default function Footer() { return <footer className="border-t border-white/10 bg-[#080a14] py-7 text-sm text-slate-500"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-2 px-6 md:flex-row"><p>© {new Date().getFullYear()} Muhammad Muzammal</p><p>Senior Full Stack Software Engineer · Lahore, Pakistan</p></div></footer>; }
