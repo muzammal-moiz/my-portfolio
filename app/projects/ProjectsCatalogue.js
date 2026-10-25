@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowUpRight, ChevronLeft, ChevronRight, Search, X } from "l
 import { useMemo, useState } from "react";
 import { projects } from "../data/projects";
 
-const PER_PAGE = 4;
+const PER_PAGE = 6;
 
 function ProjectCard({ project, number }) {
   return (
